@@ -48,7 +48,7 @@ The number at the beginning of each command is the global time when the command 
 
 ## Build Steps
 
-- Clone or download the repo using `git clone https://github.com/phoenix-254/rising-city.git`
+- Clone or download the repo using `git clone https://github.com/Priyam-Selugar/Rising_City`
 - move to `src` directory and run `make` to compile source - this will generate risingCity.class compiled file which we can run thourgh command line
 - run `risingCity input_file.txt` to run the program - this will generate program output in output_file.txt
 - Fiddle around with your own test cases by editing input_file.txt and verifying if correct output_file.txt is generated.
