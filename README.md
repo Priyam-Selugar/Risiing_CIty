@@ -1,5 +1,5 @@
-# Risiing_CIty
-# rising-city
+# Rising_City
+
 
 ## Problem description
 
